@@ -7,3 +7,7 @@ def add(){
 def sub(){
     """subtraction method"""
 }
+
+def div(){
+    """subtraction method"""
+}
